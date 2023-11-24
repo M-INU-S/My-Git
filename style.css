@@ -7,4 +7,7 @@ h1{
     font-size: medium;
     font-weight: 200;
     text-align: center;
+p{
+    color: white;
+    text-align: justify;
 }
